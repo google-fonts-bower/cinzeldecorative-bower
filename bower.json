@@ -1,0 +1,17 @@
+{
+    "name": "cinzeldecorative-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Natanael Gama"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/cinzeldecorative-bower.git"
+    },
+    "description": "Cinzel Decorative font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
